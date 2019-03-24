@@ -1,2 +1,5 @@
 # hello-world
-first test repository
+
+Hi Yamaguchi!
+
+this repository is the first.
